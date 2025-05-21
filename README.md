@@ -50,3 +50,20 @@ venv\Scripts\activate     # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
+## 🧠 Algorithm
+
+### Core Mathematics
+<div align="center">
+  <img src="https://latex.codecogs.com/svg.latex?J(w,b)=\frac{1}{2m}\sum_{i=1}^m(y_i-(wx_i+b))^2" width="250">
+  <img src="https://latex.codecogs.com/svg.latex?\frac{\partial%20J}{\partial%20w}=\frac{1}{m}\sum_{i=1}^m(y_i-(wx_i+b))\cdot%20x_i" width="300">
+</div>
+
+### Training Code
+```python
+for epoch in range(max_epochs):
+    predictions = X * weights + bias
+    error = predictions - y
+    weights -= lr * (1/m) * np.dot(X.T, error)
+    bias -= lr * (1/m) * np.sum(error)
+```
