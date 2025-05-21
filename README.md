@@ -1,6 +1,6 @@
  # 🚀 Salary Predictor: Linear Regression from Scratch
  
-![Regression Plot](https://raw.githubusercontent.com/Aditgm/salary_predictor/main/assets/regressionpic.png)
+![Regression Plot](assets/regressionpic.png)
 *Picture of loss reduction and line fitting*
 
 ## 📌 Table of Contents
