@@ -1,4 +1,4 @@
-# 🚀 Salary Predictor: Linear Regression from Scratch
+ # 🚀 Salary Predictor: Linear Regression from Scratch
 
 <div align="center">
   <img src="https://github.com/yourusername/salary-predictor/raw/main/assets/regression_plot.gif" width="600" alt="Animated Training Process">
@@ -55,8 +55,8 @@ pip install -r requirements.txt
 
 ### Core Mathematics
 <div align="center">
-  <img src="https://latex.codecogs.com/svg.latex?J(w,b)=\frac{1}{2m}\sum_{i=1}^m(y_i-(wx_i+b))^2" width="250">
-  <img src="https://latex.codecogs.com/svg.latex?\frac{\partial%20J}{\partial%20w}=\frac{1}{m}\sum_{i=1}^m(y_i-(wx_i+b))\cdot%20x_i" width="300">
+  <img src="https://latex.codecogs.com/svg.latex?\bg_white&space;J(w,b)=\frac{1}{2m}\sum_{i=1}^m(y_i-(wx_i+b))^2" width="250" style="background:white;padding:10px;border-radius:5px;">
+  <img src="https://latex.codecogs.com/svg.latex?\bg_white&space;\frac{\partial%20J}{\partial%20w}=\frac{1}{m}\sum_{i=1}^m(y_i-(wx_i+b))\cdot%20x_i" width="300" style="background:white;padding:10px;border-radius:5px;">
 </div>
 
 ### Training Code
