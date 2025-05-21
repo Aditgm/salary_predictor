@@ -1,7 +1,7 @@
  # 🚀 Salary Predictor: Linear Regression from Scratch
 
 <div align="center">
-  <img src="[assets/regressionpic.png](assets/regressionpic.png)" width="600" alt="Pic Training Process">
+ ![Regression Plot](/assets/regressionpic.png)
   <p><em>Picture of loss reduction and line fitting</em></p>
 </div>
 *Picture of loss reduction and line fitting*
