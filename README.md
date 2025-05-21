@@ -1,11 +1,8 @@
- # 🚀 Salary Predictor: Linear Regression from Scratch
 
-<div align="center">
- ![Regression Plot](assets/regressionpic.png)
-  <p><em>Picture of loss reduction and line fitting</em></p>
-</div>
+# 🚀 Salary Predictor: Linear Regression from Scratch
+
+![Regression Plot](assets/regressionpic.png)
 *Picture of loss reduction and line fitting*
-
 ## 📌 Table of Contents
 - [✨ Features](#-features)
 - [📦 Installation](#-installation)
