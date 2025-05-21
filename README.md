@@ -8,7 +8,7 @@
 ## 📌 Table of Contents
 - [✨ Features](#-features)
 - [📦 Installation](#-installation)
-- [🧠 Algorithm Deep Dive](#-algorithm-deep-dive)
+- [🧠 Algorithm](#-algorithm)
 - [📊 Dataset Overview](#-dataset-overview)
 - [🚀 Quick Start](#-quick-start)
 - [📈 Advanced Usage](#-advanced-usage)
