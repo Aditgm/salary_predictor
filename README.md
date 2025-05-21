@@ -1,7 +1,7 @@
  # 🚀 Salary Predictor: Linear Regression from Scratch
 
 <div align="center">
-  <img src="[https://github.com/yourusername/salary-predictor/raw/main/assets/regression_plot.gif](https://github.com/Aditgm/salary_predictor/blob/main/assets/regressionpic.png)" width="600" alt="Pic Training Process">
+  <img src="(https://github.com/Aditgm/salary_predictor/blob/main/assets/regressionpic.png)" width="600" alt="Pic Training Process">
   <p><em>Live training visualization showing loss reduction and line fitting</em></p>
 </div>
 
