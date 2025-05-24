@@ -11,11 +11,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"  # Just test one version
+          python-version: "3.10"
           
       - name: Install dependencies
         run: |
           pip install numpy pytest
+          pip install -e .
           
       - name: Run tests
         run: |
